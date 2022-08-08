@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center"> Howdy, I'm Ricardo 🤠 </h1>
+<h3 align="center"> I'm pivoting from consulting to web development </h3>
 
-<!--
-**MuchoAbarca/MuchoAbarca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on myself
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning <em> Javascript </em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about movies or food
+
+- 📫 How to reach me: ricabarcazamora@gmail.com
+
+- 😄 Pronouns: he/him
+
