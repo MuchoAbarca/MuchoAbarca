@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on myself
 
-- 🌱 I’m currently learning <em> Javascript </em>
+- 🌱 I’m currently learning design theory and <em> Javascript </em>
 
 - 💬 Ask me about movies or food
 
